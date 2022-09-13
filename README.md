@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-#Github and git
-=======
-# Github and git
->>>>>>> development
 
+# GitHub and git
 # CSC4111-GitAssignment
 
 
