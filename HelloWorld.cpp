@@ -10,7 +10,7 @@ using namespace std;
 // where the execution of program begins 
 int main() 
 { 
-    // prints hello world 
+    // Testing Git Merge!
     cout<<"Hello World!"; 
       
     return 0; 
